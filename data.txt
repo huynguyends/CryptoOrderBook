@@ -1,0 +1,2894 @@
+{
+    "topic": "orderBook_200.100ms.BTCUSD",
+    "type": "snapshot",
+    "data": [
+        {
+            "price": "47673.50",
+            "symbol": "BTCUSD",
+            "id": 476735000,
+            "side": "Buy",
+            "size": 12256
+        },
+        {
+            "price": "47680.00",
+            "symbol": "BTCUSD",
+            "id": 476800000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47680.50",
+            "symbol": "BTCUSD",
+            "id": 476805000,
+            "side": "Buy",
+            "size": 8000
+        },
+        {
+            "price": "47682.50",
+            "symbol": "BTCUSD",
+            "id": 476825000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47693.00",
+            "symbol": "BTCUSD",
+            "id": 476930000,
+            "side": "Buy",
+            "size": 26691
+        },
+        {
+            "price": "47700.00",
+            "symbol": "BTCUSD",
+            "id": 477000000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47705.00",
+            "symbol": "BTCUSD",
+            "id": 477050000,
+            "side": "Buy",
+            "size": 100000
+        },
+        {
+            "price": "47720.00",
+            "symbol": "BTCUSD",
+            "id": 477200000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47730.00",
+            "symbol": "BTCUSD",
+            "id": 477300000,
+            "side": "Buy",
+            "size": 22705
+        },
+        {
+            "price": "47740.00",
+            "symbol": "BTCUSD",
+            "id": 477400000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47744.00",
+            "symbol": "BTCUSD",
+            "id": 477440000,
+            "side": "Buy",
+            "size": 2500
+        },
+        {
+            "price": "47758.00",
+            "symbol": "BTCUSD",
+            "id": 477580000,
+            "side": "Buy",
+            "size": 487
+        },
+        {
+            "price": "47760.00",
+            "symbol": "BTCUSD",
+            "id": 477600000,
+            "side": "Buy",
+            "size": 590
+        },
+        {
+            "price": "47774.00",
+            "symbol": "BTCUSD",
+            "id": 477740000,
+            "side": "Buy",
+            "size": 10000
+        },
+        {
+            "price": "47779.50",
+            "symbol": "BTCUSD",
+            "id": 477795000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47780.00",
+            "symbol": "BTCUSD",
+            "id": 477800000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47780.50",
+            "symbol": "BTCUSD",
+            "id": 477805000,
+            "side": "Buy",
+            "size": 7000
+        },
+        {
+            "price": "47785.00",
+            "symbol": "BTCUSD",
+            "id": 477850000,
+            "side": "Buy",
+            "size": 300
+        },
+        {
+            "price": "47788.50",
+            "symbol": "BTCUSD",
+            "id": 477885000,
+            "side": "Buy",
+            "size": 10216
+        },
+        {
+            "price": "47789.50",
+            "symbol": "BTCUSD",
+            "id": 477895000,
+            "side": "Buy",
+            "size": 1092
+        },
+        {
+            "price": "47790.00",
+            "symbol": "BTCUSD",
+            "id": 477900000,
+            "side": "Buy",
+            "size": 50038
+        },
+        {
+            "price": "47796.50",
+            "symbol": "BTCUSD",
+            "id": 477965000,
+            "side": "Buy",
+            "size": 66154
+        },
+        {
+            "price": "47797.00",
+            "symbol": "BTCUSD",
+            "id": 477970000,
+            "side": "Buy",
+            "size": 15262
+        },
+        {
+            "price": "47798.00",
+            "symbol": "BTCUSD",
+            "id": 477980000,
+            "side": "Buy",
+            "size": 2277
+        },
+        {
+            "price": "47798.50",
+            "symbol": "BTCUSD",
+            "id": 477985000,
+            "side": "Buy",
+            "size": 38332
+        },
+        {
+            "price": "47799.00",
+            "symbol": "BTCUSD",
+            "id": 477990000,
+            "side": "Buy",
+            "size": 11725
+        },
+        {
+            "price": "47800.00",
+            "symbol": "BTCUSD",
+            "id": 478000000,
+            "side": "Buy",
+            "size": 60
+        },
+        {
+            "price": "47804.00",
+            "symbol": "BTCUSD",
+            "id": 478040000,
+            "side": "Buy",
+            "size": 10955
+        },
+        {
+            "price": "47804.50",
+            "symbol": "BTCUSD",
+            "id": 478045000,
+            "side": "Buy",
+            "size": 59998
+        },
+        {
+            "price": "47805.00",
+            "symbol": "BTCUSD",
+            "id": 478050000,
+            "side": "Buy",
+            "size": 100000
+        },
+        {
+            "price": "47810.00",
+            "symbol": "BTCUSD",
+            "id": 478100000,
+            "side": "Buy",
+            "size": 84248
+        },
+        {
+            "price": "47811.00",
+            "symbol": "BTCUSD",
+            "id": 478110000,
+            "side": "Buy",
+            "size": 200
+        },
+        {
+            "price": "47815.50",
+            "symbol": "BTCUSD",
+            "id": 478155000,
+            "side": "Buy",
+            "size": 23695
+        },
+        {
+            "price": "47816.00",
+            "symbol": "BTCUSD",
+            "id": 478160000,
+            "side": "Buy",
+            "size": 44195
+        },
+        {
+            "price": "47820.00",
+            "symbol": "BTCUSD",
+            "id": 478200000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47824.00",
+            "symbol": "BTCUSD",
+            "id": 478240000,
+            "side": "Buy",
+            "size": 6865
+        },
+        {
+            "price": "47824.50",
+            "symbol": "BTCUSD",
+            "id": 478245000,
+            "side": "Buy",
+            "size": 50005
+        },
+        {
+            "price": "47830.00",
+            "symbol": "BTCUSD",
+            "id": 478300000,
+            "side": "Buy",
+            "size": 23492
+        },
+        {
+            "price": "47831.50",
+            "symbol": "BTCUSD",
+            "id": 478315000,
+            "side": "Buy",
+            "size": 3951
+        },
+        {
+            "price": "47832.00",
+            "symbol": "BTCUSD",
+            "id": 478320000,
+            "side": "Buy",
+            "size": 1390
+        },
+        {
+            "price": "47832.50",
+            "symbol": "BTCUSD",
+            "id": 478325000,
+            "side": "Buy",
+            "size": 50249
+        },
+        {
+            "price": "47838.00",
+            "symbol": "BTCUSD",
+            "id": 478380000,
+            "side": "Buy",
+            "size": 22800
+        },
+        {
+            "price": "47838.50",
+            "symbol": "BTCUSD",
+            "id": 478385000,
+            "side": "Buy",
+            "size": 655
+        },
+        {
+            "price": "47839.00",
+            "symbol": "BTCUSD",
+            "id": 478390000,
+            "side": "Buy",
+            "size": 50298
+        },
+        {
+            "price": "47839.50",
+            "symbol": "BTCUSD",
+            "id": 478395000,
+            "side": "Buy",
+            "size": 13
+        },
+        {
+            "price": "47840.00",
+            "symbol": "BTCUSD",
+            "id": 478400000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47844.50",
+            "symbol": "BTCUSD",
+            "id": 478445000,
+            "side": "Buy",
+            "size": 55517
+        },
+        {
+            "price": "47850.00",
+            "symbol": "BTCUSD",
+            "id": 478500000,
+            "side": "Buy",
+            "size": 20903
+        },
+        {
+            "price": "47853.50",
+            "symbol": "BTCUSD",
+            "id": 478535000,
+            "side": "Buy",
+            "size": 3843
+        },
+        {
+            "price": "47854.00",
+            "symbol": "BTCUSD",
+            "id": 478540000,
+            "side": "Buy",
+            "size": 51559
+        },
+        {
+            "price": "47859.50",
+            "symbol": "BTCUSD",
+            "id": 478595000,
+            "side": "Buy",
+            "size": 61080
+        },
+        {
+            "price": "47860.00",
+            "symbol": "BTCUSD",
+            "id": 478600000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47862.50",
+            "symbol": "BTCUSD",
+            "id": 478625000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47868.50",
+            "symbol": "BTCUSD",
+            "id": 478685000,
+            "side": "Buy",
+            "size": 3456
+        },
+        {
+            "price": "47869.00",
+            "symbol": "BTCUSD",
+            "id": 478690000,
+            "side": "Buy",
+            "size": 50059
+        },
+        {
+            "price": "47870.50",
+            "symbol": "BTCUSD",
+            "id": 478705000,
+            "side": "Buy",
+            "size": 156462
+        },
+        {
+            "price": "47874.50",
+            "symbol": "BTCUSD",
+            "id": 478745000,
+            "side": "Buy",
+            "size": 61684
+        },
+        {
+            "price": "47876.00",
+            "symbol": "BTCUSD",
+            "id": 478760000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47880.00",
+            "symbol": "BTCUSD",
+            "id": 478800000,
+            "side": "Buy",
+            "size": 59939
+        },
+        {
+            "price": "47880.50",
+            "symbol": "BTCUSD",
+            "id": 478805000,
+            "side": "Buy",
+            "size": 6000
+        },
+        {
+            "price": "47881.00",
+            "symbol": "BTCUSD",
+            "id": 478810000,
+            "side": "Buy",
+            "size": 258
+        },
+        {
+            "price": "47881.50",
+            "symbol": "BTCUSD",
+            "id": 478815000,
+            "side": "Buy",
+            "size": 1279
+        },
+        {
+            "price": "47882.00",
+            "symbol": "BTCUSD",
+            "id": 478820000,
+            "side": "Buy",
+            "size": 390
+        },
+        {
+            "price": "47882.50",
+            "symbol": "BTCUSD",
+            "id": 478825000,
+            "side": "Buy",
+            "size": 50062
+        },
+        {
+            "price": "47888.00",
+            "symbol": "BTCUSD",
+            "id": 478880000,
+            "side": "Buy",
+            "size": 19985
+        },
+        {
+            "price": "47888.50",
+            "symbol": "BTCUSD",
+            "id": 478885000,
+            "side": "Buy",
+            "size": 50981
+        },
+        {
+            "price": "47894.00",
+            "symbol": "BTCUSD",
+            "id": 478940000,
+            "side": "Buy",
+            "size": 74229
+        },
+        {
+            "price": "47900.00",
+            "symbol": "BTCUSD",
+            "id": 479000000,
+            "side": "Buy",
+            "size": 3521
+        },
+        {
+            "price": "47900.50",
+            "symbol": "BTCUSD",
+            "id": 479005000,
+            "side": "Buy",
+            "size": 47191
+        },
+        {
+            "price": "47904.50",
+            "symbol": "BTCUSD",
+            "id": 479045000,
+            "side": "Buy",
+            "size": 4675
+        },
+        {
+            "price": "47905.00",
+            "symbol": "BTCUSD",
+            "id": 479050000,
+            "side": "Buy",
+            "size": 100000
+        },
+        {
+            "price": "47905.50",
+            "symbol": "BTCUSD",
+            "id": 479055000,
+            "side": "Buy",
+            "size": 1196
+        },
+        {
+            "price": "47906.00",
+            "symbol": "BTCUSD",
+            "id": 479060000,
+            "side": "Buy",
+            "size": 50358
+        },
+        {
+            "price": "47910.50",
+            "symbol": "BTCUSD",
+            "id": 479105000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47911.50",
+            "symbol": "BTCUSD",
+            "id": 479115000,
+            "side": "Buy",
+            "size": 22379
+        },
+        {
+            "price": "47913.00",
+            "symbol": "BTCUSD",
+            "id": 479130000,
+            "side": "Buy",
+            "size": 51894
+        },
+        {
+            "price": "47918.50",
+            "symbol": "BTCUSD",
+            "id": 479185000,
+            "side": "Buy",
+            "size": 23437
+        },
+        {
+            "price": "47919.00",
+            "symbol": "BTCUSD",
+            "id": 479190000,
+            "side": "Buy",
+            "size": 50109
+        },
+        {
+            "price": "47920.00",
+            "symbol": "BTCUSD",
+            "id": 479200000,
+            "side": "Buy",
+            "size": 1040
+        },
+        {
+            "price": "47924.00",
+            "symbol": "BTCUSD",
+            "id": 479240000,
+            "side": "Buy",
+            "size": 1000000
+        },
+        {
+            "price": "47924.50",
+            "symbol": "BTCUSD",
+            "id": 479245000,
+            "side": "Buy",
+            "size": 23046
+        },
+        {
+            "price": "47925.00",
+            "symbol": "BTCUSD",
+            "id": 479250000,
+            "side": "Buy",
+            "size": 50380
+        },
+        {
+            "price": "47930.50",
+            "symbol": "BTCUSD",
+            "id": 479305000,
+            "side": "Buy",
+            "size": 22487
+        },
+        {
+            "price": "47931.00",
+            "symbol": "BTCUSD",
+            "id": 479310000,
+            "side": "Buy",
+            "size": 55576
+        },
+        {
+            "price": "47938.50",
+            "symbol": "BTCUSD",
+            "id": 479385000,
+            "side": "Buy",
+            "size": 6192
+        },
+        {
+            "price": "47939.00",
+            "symbol": "BTCUSD",
+            "id": 479390000,
+            "side": "Buy",
+            "size": 50143
+        },
+        {
+            "price": "47940.00",
+            "symbol": "BTCUSD",
+            "id": 479400000,
+            "side": "Buy",
+            "size": 40
+        },
+        {
+            "price": "47944.50",
+            "symbol": "BTCUSD",
+            "id": 479445000,
+            "side": "Buy",
+            "size": 77452
+        },
+        {
+            "price": "47947.00",
+            "symbol": "BTCUSD",
+            "id": 479470000,
+            "side": "Buy",
+            "size": 1000000
+        },
+        {
+            "price": "47950.00",
+            "symbol": "BTCUSD",
+            "id": 479500000,
+            "side": "Buy",
+            "size": 50167
+        },
+        {
+            "price": "47953.50",
+            "symbol": "BTCUSD",
+            "id": 479535000,
+            "side": "Buy",
+            "size": 1
+        },
+        {
+            "price": "47955.50",
+            "symbol": "BTCUSD",
+            "id": 479555000,
+            "side": "Buy",
+            "size": 59962
+        },
+        {
+            "price": "47958.00",
+            "symbol": "BTCUSD",
+            "id": 479580000,
+            "side": "Buy",
+            "size": 53382
+        },
+        {
+            "price": "47958.50",
+            "symbol": "BTCUSD",
+            "id": 479585000,
+            "side": "Buy",
+            "size": 404431
+        },
+        {
+            "price": "47961.00",
+            "symbol": "BTCUSD",
+            "id": 479610000,
+            "side": "Buy",
+            "size": 22676
+        },
+        {
+            "price": "47962.50",
+            "symbol": "BTCUSD",
+            "id": 479625000,
+            "side": "Buy",
+            "size": 6808
+        },
+        {
+            "price": "47963.50",
+            "symbol": "BTCUSD",
+            "id": 479635000,
+            "side": "Buy",
+            "size": 1477
+        },
+        {
+            "price": "47964.00",
+            "symbol": "BTCUSD",
+            "id": 479640000,
+            "side": "Buy",
+            "size": 50198
+        },
+        {
+            "price": "47969.50",
+            "symbol": "BTCUSD",
+            "id": 479695000,
+            "side": "Buy",
+            "size": 19829
+        },
+        {
+            "price": "47972.50",
+            "symbol": "BTCUSD",
+            "id": 479725000,
+            "side": "Buy",
+            "size": 50651
+        },
+        {
+            "price": "47973.00",
+            "symbol": "BTCUSD",
+            "id": 479730000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "47976.00",
+            "symbol": "BTCUSD",
+            "id": 479760000,
+            "side": "Buy",
+            "size": 264
+        },
+        {
+            "price": "47978.00",
+            "symbol": "BTCUSD",
+            "id": 479780000,
+            "side": "Buy",
+            "size": 59711
+        },
+        {
+            "price": "47983.50",
+            "symbol": "BTCUSD",
+            "id": 479835000,
+            "side": "Buy",
+            "size": 54952
+        },
+        {
+            "price": "47989.00",
+            "symbol": "BTCUSD",
+            "id": 479890000,
+            "side": "Buy",
+            "size": 2038
+        },
+        {
+            "price": "47989.50",
+            "symbol": "BTCUSD",
+            "id": 479895000,
+            "side": "Buy",
+            "size": 51027
+        },
+        {
+            "price": "47995.00",
+            "symbol": "BTCUSD",
+            "id": 479950000,
+            "side": "Buy",
+            "size": 61471
+        },
+        {
+            "price": "48000.50",
+            "symbol": "BTCUSD",
+            "id": 480005000,
+            "side": "Buy",
+            "size": 679
+        },
+        {
+            "price": "48001.00",
+            "symbol": "BTCUSD",
+            "id": 480010000,
+            "side": "Buy",
+            "size": 50240
+        },
+        {
+            "price": "48006.50",
+            "symbol": "BTCUSD",
+            "id": 480065000,
+            "side": "Buy",
+            "size": 77443
+        },
+        {
+            "price": "48012.00",
+            "symbol": "BTCUSD",
+            "id": 480120000,
+            "side": "Buy",
+            "size": 57946
+        },
+        {
+            "price": "48013.00",
+            "symbol": "BTCUSD",
+            "id": 480130000,
+            "side": "Buy",
+            "size": 2984
+        },
+        {
+            "price": "48013.50",
+            "symbol": "BTCUSD",
+            "id": 480135000,
+            "side": "Buy",
+            "size": 50180
+        },
+        {
+            "price": "48018.00",
+            "symbol": "BTCUSD",
+            "id": 480180000,
+            "side": "Buy",
+            "size": 50
+        },
+        {
+            "price": "48019.00",
+            "symbol": "BTCUSD",
+            "id": 480190000,
+            "side": "Buy",
+            "size": 79722
+        },
+        {
+            "price": "48026.50",
+            "symbol": "BTCUSD",
+            "id": 480265000,
+            "side": "Buy",
+            "size": 50748
+        },
+        {
+            "price": "48033.50",
+            "symbol": "BTCUSD",
+            "id": 480335000,
+            "side": "Buy",
+            "size": 815
+        },
+        {
+            "price": "48034.00",
+            "symbol": "BTCUSD",
+            "id": 480340000,
+            "side": "Buy",
+            "size": 53134
+        },
+        {
+            "price": "48039.50",
+            "symbol": "BTCUSD",
+            "id": 480395000,
+            "side": "Buy",
+            "size": 51555
+        },
+        {
+            "price": "48045.00",
+            "symbol": "BTCUSD",
+            "id": 480450000,
+            "side": "Buy",
+            "size": 67635
+        },
+        {
+            "price": "48045.50",
+            "symbol": "BTCUSD",
+            "id": 480455000,
+            "side": "Buy",
+            "size": 6943
+        },
+        {
+            "price": "48047.00",
+            "symbol": "BTCUSD",
+            "id": 480470000,
+            "side": "Buy",
+            "size": 51643
+        },
+        {
+            "price": "48053.50",
+            "symbol": "BTCUSD",
+            "id": 480535000,
+            "side": "Buy",
+            "size": 60189
+        },
+        {
+            "price": "48058.50",
+            "symbol": "BTCUSD",
+            "id": 480585000,
+            "side": "Buy",
+            "size": 35
+        },
+        {
+            "price": "48059.00",
+            "symbol": "BTCUSD",
+            "id": 480590000,
+            "side": "Buy",
+            "size": 1395
+        },
+        {
+            "price": "48060.50",
+            "symbol": "BTCUSD",
+            "id": 480605000,
+            "side": "Buy",
+            "size": 54658
+        },
+        {
+            "price": "48069.50",
+            "symbol": "BTCUSD",
+            "id": 480695000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "48080.00",
+            "symbol": "BTCUSD",
+            "id": 480800000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48085.00",
+            "symbol": "BTCUSD",
+            "id": 480850000,
+            "side": "Buy",
+            "size": 39
+        },
+        {
+            "price": "48090.00",
+            "symbol": "BTCUSD",
+            "id": 480900000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48100.00",
+            "symbol": "BTCUSD",
+            "id": 481000000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48107.00",
+            "symbol": "BTCUSD",
+            "id": 481070000,
+            "side": "Buy",
+            "size": 35
+        },
+        {
+            "price": "48110.00",
+            "symbol": "BTCUSD",
+            "id": 481100000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48120.00",
+            "symbol": "BTCUSD",
+            "id": 481200000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48130.00",
+            "symbol": "BTCUSD",
+            "id": 481300000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48140.00",
+            "symbol": "BTCUSD",
+            "id": 481400000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48146.50",
+            "symbol": "BTCUSD",
+            "id": 481465000,
+            "side": "Buy",
+            "size": 25
+        },
+        {
+            "price": "48150.00",
+            "symbol": "BTCUSD",
+            "id": 481500000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48155.50",
+            "symbol": "BTCUSD",
+            "id": 481555000,
+            "side": "Buy",
+            "size": 35
+        },
+        {
+            "price": "48160.00",
+            "symbol": "BTCUSD",
+            "id": 481600000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48166.50",
+            "symbol": "BTCUSD",
+            "id": 481665000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "48170.00",
+            "symbol": "BTCUSD",
+            "id": 481700000,
+            "side": "Buy",
+            "size": 20
+        },
+        {
+            "price": "48175.00",
+            "symbol": "BTCUSD",
+            "id": 481750000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48176.00",
+            "symbol": "BTCUSD",
+            "id": 481760000,
+            "side": "Buy",
+            "size": 8400
+        },
+        {
+            "price": "48180.00",
+            "symbol": "BTCUSD",
+            "id": 481800000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48185.00",
+            "symbol": "BTCUSD",
+            "id": 481850000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48190.00",
+            "symbol": "BTCUSD",
+            "id": 481900000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48195.00",
+            "symbol": "BTCUSD",
+            "id": 481950000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48200.00",
+            "symbol": "BTCUSD",
+            "id": 482000000,
+            "side": "Buy",
+            "size": 430
+        },
+        {
+            "price": "48204.00",
+            "symbol": "BTCUSD",
+            "id": 482040000,
+            "side": "Buy",
+            "size": 35
+        },
+        {
+            "price": "48205.00",
+            "symbol": "BTCUSD",
+            "id": 482050000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48206.00",
+            "symbol": "BTCUSD",
+            "id": 482060000,
+            "side": "Buy",
+            "size": 43
+        },
+        {
+            "price": "48210.00",
+            "symbol": "BTCUSD",
+            "id": 482100000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48215.00",
+            "symbol": "BTCUSD",
+            "id": 482150000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48218.00",
+            "symbol": "BTCUSD",
+            "id": 482180000,
+            "side": "Buy",
+            "size": 132
+        },
+        {
+            "price": "48220.00",
+            "symbol": "BTCUSD",
+            "id": 482200000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48225.00",
+            "symbol": "BTCUSD",
+            "id": 482250000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48230.00",
+            "symbol": "BTCUSD",
+            "id": 482300000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48235.00",
+            "symbol": "BTCUSD",
+            "id": 482350000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48240.00",
+            "symbol": "BTCUSD",
+            "id": 482400000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48245.00",
+            "symbol": "BTCUSD",
+            "id": 482450000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48248.00",
+            "symbol": "BTCUSD",
+            "id": 482480000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "48250.00",
+            "symbol": "BTCUSD",
+            "id": 482500000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48252.50",
+            "symbol": "BTCUSD",
+            "id": 482525000,
+            "side": "Buy",
+            "size": 35
+        },
+        {
+            "price": "48255.00",
+            "symbol": "BTCUSD",
+            "id": 482550000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48260.00",
+            "symbol": "BTCUSD",
+            "id": 482600000,
+            "side": "Buy",
+            "size": 30
+        },
+        {
+            "price": "48263.00",
+            "symbol": "BTCUSD",
+            "id": 482630000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "48265.00",
+            "symbol": "BTCUSD",
+            "id": 482650000,
+            "side": "Buy",
+            "size": 110
+        },
+        {
+            "price": "48267.50",
+            "symbol": "BTCUSD",
+            "id": 482675000,
+            "side": "Buy",
+            "size": 25
+        },
+        {
+            "price": "48270.00",
+            "symbol": "BTCUSD",
+            "id": 482700000,
+            "side": "Buy",
+            "size": 130
+        },
+        {
+            "price": "48275.00",
+            "symbol": "BTCUSD",
+            "id": 482750000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48276.50",
+            "symbol": "BTCUSD",
+            "id": 482765000,
+            "side": "Buy",
+            "size": 34851
+        },
+        {
+            "price": "48280.00",
+            "symbol": "BTCUSD",
+            "id": 482800000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48285.00",
+            "symbol": "BTCUSD",
+            "id": 482850000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48290.00",
+            "symbol": "BTCUSD",
+            "id": 482900000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48295.00",
+            "symbol": "BTCUSD",
+            "id": 482950000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48300.00",
+            "symbol": "BTCUSD",
+            "id": 483000000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48305.00",
+            "symbol": "BTCUSD",
+            "id": 483050000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48309.00",
+            "symbol": "BTCUSD",
+            "id": 483090000,
+            "side": "Buy",
+            "size": 100
+        },
+        {
+            "price": "48310.00",
+            "symbol": "BTCUSD",
+            "id": 483100000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48315.00",
+            "symbol": "BTCUSD",
+            "id": 483150000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48318.50",
+            "symbol": "BTCUSD",
+            "id": 483185000,
+            "side": "Buy",
+            "size": 1934
+        },
+        {
+            "price": "48320.00",
+            "symbol": "BTCUSD",
+            "id": 483200000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48325.00",
+            "symbol": "BTCUSD",
+            "id": 483250000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48330.00",
+            "symbol": "BTCUSD",
+            "id": 483300000,
+            "side": "Buy",
+            "size": 42782
+        },
+        {
+            "price": "48335.00",
+            "symbol": "BTCUSD",
+            "id": 483350000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48336.50",
+            "symbol": "BTCUSD",
+            "id": 483365000,
+            "side": "Buy",
+            "size": 76800
+        },
+        {
+            "price": "48340.00",
+            "symbol": "BTCUSD",
+            "id": 483400000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48343.00",
+            "symbol": "BTCUSD",
+            "id": 483430000,
+            "side": "Buy",
+            "size": 94
+        },
+        {
+            "price": "48345.00",
+            "symbol": "BTCUSD",
+            "id": 483450000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48350.00",
+            "symbol": "BTCUSD",
+            "id": 483500000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48353.50",
+            "symbol": "BTCUSD",
+            "id": 483535000,
+            "side": "Buy",
+            "size": 4360
+        },
+        {
+            "price": "48355.00",
+            "symbol": "BTCUSD",
+            "id": 483550000,
+            "side": "Buy",
+            "size": 10
+        },
+        {
+            "price": "48356.50",
+            "symbol": "BTCUSD",
+            "id": 483565000,
+            "side": "Buy",
+            "size": 102960
+        },
+        {
+            "price": "48357.00",
+            "symbol": "BTCUSD",
+            "id": 483570000,
+            "side": "Buy",
+            "size": 7170
+        },
+        {
+            "price": "48357.50",
+            "symbol": "BTCUSD",
+            "id": 483575000,
+            "side": "Buy",
+            "size": 39180
+        },
+        {
+            "price": "48358.00",
+            "symbol": "BTCUSD",
+            "id": 483580000,
+            "side": "Buy",
+            "size": 39420
+        },
+        {
+            "price": "48358.50",
+            "symbol": "BTCUSD",
+            "id": 483585000,
+            "side": "Buy",
+            "size": 124650
+        },
+        {
+            "price": "48359.00",
+            "symbol": "BTCUSD",
+            "id": 483590000,
+            "side": "Buy",
+            "size": 41280
+        },
+        {
+            "price": "48359.50",
+            "symbol": "BTCUSD",
+            "id": 483595000,
+            "side": "Buy",
+            "size": 149748
+        },
+        {
+            "price": "48360.00",
+            "symbol": "BTCUSD",
+            "id": 483600000,
+            "side": "Sell",
+            "size": 309979
+        },
+        {
+            "price": "48371.00",
+            "symbol": "BTCUSD",
+            "id": 483710000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48382.50",
+            "symbol": "BTCUSD",
+            "id": 483825000,
+            "side": "Sell",
+            "size": 66670
+        },
+        {
+            "price": "48383.00",
+            "symbol": "BTCUSD",
+            "id": 483830000,
+            "side": "Sell",
+            "size": 4180
+        },
+        {
+            "price": "48383.50",
+            "symbol": "BTCUSD",
+            "id": 483835000,
+            "side": "Sell",
+            "size": 137470
+        },
+        {
+            "price": "48384.00",
+            "symbol": "BTCUSD",
+            "id": 483840000,
+            "side": "Sell",
+            "size": 39480
+        },
+        {
+            "price": "48384.50",
+            "symbol": "BTCUSD",
+            "id": 483845000,
+            "side": "Sell",
+            "size": 125840
+        },
+        {
+            "price": "48385.00",
+            "symbol": "BTCUSD",
+            "id": 483850000,
+            "side": "Sell",
+            "size": 17700
+        },
+        {
+            "price": "48385.50",
+            "symbol": "BTCUSD",
+            "id": 483855000,
+            "side": "Sell",
+            "size": 158140
+        },
+        {
+            "price": "48391.00",
+            "symbol": "BTCUSD",
+            "id": 483910000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48395.00",
+            "symbol": "BTCUSD",
+            "id": 483950000,
+            "side": "Sell",
+            "size": 1000
+        },
+        {
+            "price": "48395.50",
+            "symbol": "BTCUSD",
+            "id": 483955000,
+            "side": "Sell",
+            "size": 158880
+        },
+        {
+            "price": "48401.50",
+            "symbol": "BTCUSD",
+            "id": 484015000,
+            "side": "Sell",
+            "size": 40744
+        },
+        {
+            "price": "48406.00",
+            "symbol": "BTCUSD",
+            "id": 484060000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48408.00",
+            "symbol": "BTCUSD",
+            "id": 484080000,
+            "side": "Sell",
+            "size": 938
+        },
+        {
+            "price": "48408.50",
+            "symbol": "BTCUSD",
+            "id": 484085000,
+            "side": "Sell",
+            "size": 6840
+        },
+        {
+            "price": "48410.00",
+            "symbol": "BTCUSD",
+            "id": 484100000,
+            "side": "Sell",
+            "size": 42772
+        },
+        {
+            "price": "48413.00",
+            "symbol": "BTCUSD",
+            "id": 484130000,
+            "side": "Sell",
+            "size": 211300
+        },
+        {
+            "price": "48418.00",
+            "symbol": "BTCUSD",
+            "id": 484180000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48421.50",
+            "symbol": "BTCUSD",
+            "id": 484215000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48427.00",
+            "symbol": "BTCUSD",
+            "id": 484270000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48428.50",
+            "symbol": "BTCUSD",
+            "id": 484285000,
+            "side": "Sell",
+            "size": 458
+        },
+        {
+            "price": "48443.00",
+            "symbol": "BTCUSD",
+            "id": 484430000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48456.50",
+            "symbol": "BTCUSD",
+            "id": 484565000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48464.00",
+            "symbol": "BTCUSD",
+            "id": 484640000,
+            "side": "Sell",
+            "size": 2178
+        },
+        {
+            "price": "48476.50",
+            "symbol": "BTCUSD",
+            "id": 484765000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48477.00",
+            "symbol": "BTCUSD",
+            "id": 484770000,
+            "side": "Sell",
+            "size": 13067
+        },
+        {
+            "price": "48480.50",
+            "symbol": "BTCUSD",
+            "id": 484805000,
+            "side": "Sell",
+            "size": 15
+        },
+        {
+            "price": "48481.00",
+            "symbol": "BTCUSD",
+            "id": 484810000,
+            "side": "Sell",
+            "size": 200
+        },
+        {
+            "price": "48485.50",
+            "symbol": "BTCUSD",
+            "id": 484855000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48487.00",
+            "symbol": "BTCUSD",
+            "id": 484870000,
+            "side": "Sell",
+            "size": 1
+        },
+        {
+            "price": "48488.00",
+            "symbol": "BTCUSD",
+            "id": 484880000,
+            "side": "Sell",
+            "size": 1
+        },
+        {
+            "price": "48489.00",
+            "symbol": "BTCUSD",
+            "id": 484890000,
+            "side": "Sell",
+            "size": 1
+        },
+        {
+            "price": "48491.00",
+            "symbol": "BTCUSD",
+            "id": 484910000,
+            "side": "Sell",
+            "size": 2
+        },
+        {
+            "price": "48494.00",
+            "symbol": "BTCUSD",
+            "id": 484940000,
+            "side": "Sell",
+            "size": 3
+        },
+        {
+            "price": "48499.00",
+            "symbol": "BTCUSD",
+            "id": 484990000,
+            "side": "Sell",
+            "size": 5
+        },
+        {
+            "price": "48506.00",
+            "symbol": "BTCUSD",
+            "id": 485060000,
+            "side": "Sell",
+            "size": 211
+        },
+        {
+            "price": "48507.00",
+            "symbol": "BTCUSD",
+            "id": 485070000,
+            "side": "Sell",
+            "size": 8
+        },
+        {
+            "price": "48519.00",
+            "symbol": "BTCUSD",
+            "id": 485190000,
+            "side": "Sell",
+            "size": 229
+        },
+        {
+            "price": "48520.00",
+            "symbol": "BTCUSD",
+            "id": 485200000,
+            "side": "Sell",
+            "size": 13
+        },
+        {
+            "price": "48541.00",
+            "symbol": "BTCUSD",
+            "id": 485410000,
+            "side": "Sell",
+            "size": 21
+        },
+        {
+            "price": "48550.50",
+            "symbol": "BTCUSD",
+            "id": 485505000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48553.00",
+            "symbol": "BTCUSD",
+            "id": 485530000,
+            "side": "Sell",
+            "size": 6747
+        },
+        {
+            "price": "48557.00",
+            "symbol": "BTCUSD",
+            "id": 485570000,
+            "side": "Sell",
+            "size": 6650
+        },
+        {
+            "price": "48557.50",
+            "symbol": "BTCUSD",
+            "id": 485575000,
+            "side": "Sell",
+            "size": 198
+        },
+        {
+            "price": "48563.50",
+            "symbol": "BTCUSD",
+            "id": 485635000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48575.00",
+            "symbol": "BTCUSD",
+            "id": 485750000,
+            "side": "Sell",
+            "size": 34
+        },
+        {
+            "price": "48600.00",
+            "symbol": "BTCUSD",
+            "id": 486000000,
+            "side": "Sell",
+            "size": 500000
+        },
+        {
+            "price": "48605.00",
+            "symbol": "BTCUSD",
+            "id": 486050000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48608.50",
+            "symbol": "BTCUSD",
+            "id": 486085000,
+            "side": "Sell",
+            "size": 8400
+        },
+        {
+            "price": "48624.50",
+            "symbol": "BTCUSD",
+            "id": 486245000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48630.00",
+            "symbol": "BTCUSD",
+            "id": 486300000,
+            "side": "Sell",
+            "size": 55
+        },
+        {
+            "price": "48650.00",
+            "symbol": "BTCUSD",
+            "id": 486500000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48653.50",
+            "symbol": "BTCUSD",
+            "id": 486535000,
+            "side": "Sell",
+            "size": 73820
+        },
+        {
+            "price": "48656.50",
+            "symbol": "BTCUSD",
+            "id": 486565000,
+            "side": "Sell",
+            "size": 761
+        },
+        {
+            "price": "48660.00",
+            "symbol": "BTCUSD",
+            "id": 486600000,
+            "side": "Sell",
+            "size": 20284
+        },
+        {
+            "price": "48660.50",
+            "symbol": "BTCUSD",
+            "id": 486605000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48662.50",
+            "symbol": "BTCUSD",
+            "id": 486625000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48665.50",
+            "symbol": "BTCUSD",
+            "id": 486655000,
+            "side": "Sell",
+            "size": 74566
+        },
+        {
+            "price": "48671.00",
+            "symbol": "BTCUSD",
+            "id": 486710000,
+            "side": "Sell",
+            "size": 52142
+        },
+        {
+            "price": "48676.50",
+            "symbol": "BTCUSD",
+            "id": 486765000,
+            "side": "Sell",
+            "size": 50958
+        },
+        {
+            "price": "48677.00",
+            "symbol": "BTCUSD",
+            "id": 486770000,
+            "side": "Sell",
+            "size": 2416
+        },
+        {
+            "price": "48679.00",
+            "symbol": "BTCUSD",
+            "id": 486790000,
+            "side": "Sell",
+            "size": 69001
+        },
+        {
+            "price": "48685.50",
+            "symbol": "BTCUSD",
+            "id": 486855000,
+            "side": "Sell",
+            "size": 50445
+        },
+        {
+            "price": "48686.50",
+            "symbol": "BTCUSD",
+            "id": 486865000,
+            "side": "Sell",
+            "size": 8698
+        },
+        {
+            "price": "48692.50",
+            "symbol": "BTCUSD",
+            "id": 486925000,
+            "side": "Sell",
+            "size": 53496
+        },
+        {
+            "price": "48698.00",
+            "symbol": "BTCUSD",
+            "id": 486980000,
+            "side": "Sell",
+            "size": 72353
+        },
+        {
+            "price": "48703.50",
+            "symbol": "BTCUSD",
+            "id": 487035000,
+            "side": "Sell",
+            "size": 50081
+        },
+        {
+            "price": "48705.00",
+            "symbol": "BTCUSD",
+            "id": 487050000,
+            "side": "Sell",
+            "size": 33514
+        },
+        {
+            "price": "48705.50",
+            "symbol": "BTCUSD",
+            "id": 487055000,
+            "side": "Sell",
+            "size": 29321
+        },
+        {
+            "price": "48711.00",
+            "symbol": "BTCUSD",
+            "id": 487110000,
+            "side": "Sell",
+            "size": 84188
+        },
+        {
+            "price": "48716.50",
+            "symbol": "BTCUSD",
+            "id": 487165000,
+            "side": "Sell",
+            "size": 50169
+        },
+        {
+            "price": "48717.00",
+            "symbol": "BTCUSD",
+            "id": 487170000,
+            "side": "Sell",
+            "size": 1582
+        },
+        {
+            "price": "48719.00",
+            "symbol": "BTCUSD",
+            "id": 487190000,
+            "side": "Sell",
+            "size": 89
+        },
+        {
+            "price": "48726.00",
+            "symbol": "BTCUSD",
+            "id": 487260000,
+            "side": "Sell",
+            "size": 51820
+        },
+        {
+            "price": "48726.50",
+            "symbol": "BTCUSD",
+            "id": 487265000,
+            "side": "Sell",
+            "size": 7812
+        },
+        {
+            "price": "48732.00",
+            "symbol": "BTCUSD",
+            "id": 487320000,
+            "side": "Sell",
+            "size": 50145
+        },
+        {
+            "price": "48732.50",
+            "symbol": "BTCUSD",
+            "id": 487325000,
+            "side": "Sell",
+            "size": 1888
+        },
+        {
+            "price": "48733.00",
+            "symbol": "BTCUSD",
+            "id": 487330000,
+            "side": "Sell",
+            "size": 11317
+        },
+        {
+            "price": "48735.00",
+            "symbol": "BTCUSD",
+            "id": 487350000,
+            "side": "Sell",
+            "size": 25750
+        },
+        {
+            "price": "48736.50",
+            "symbol": "BTCUSD",
+            "id": 487365000,
+            "side": "Sell",
+            "size": 26498
+        },
+        {
+            "price": "48742.00",
+            "symbol": "BTCUSD",
+            "id": 487420000,
+            "side": "Sell",
+            "size": 50147
+        },
+        {
+            "price": "48743.00",
+            "symbol": "BTCUSD",
+            "id": 487430000,
+            "side": "Sell",
+            "size": 2836
+        },
+        {
+            "price": "48745.50",
+            "symbol": "BTCUSD",
+            "id": 487455000,
+            "side": "Sell",
+            "size": 20183
+        },
+        {
+            "price": "48746.50",
+            "symbol": "BTCUSD",
+            "id": 487465000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48751.00",
+            "symbol": "BTCUSD",
+            "id": 487510000,
+            "side": "Sell",
+            "size": 50092
+        },
+        {
+            "price": "48752.50",
+            "symbol": "BTCUSD",
+            "id": 487525000,
+            "side": "Sell",
+            "size": 1145
+        },
+        {
+            "price": "48754.50",
+            "symbol": "BTCUSD",
+            "id": 487545000,
+            "side": "Sell",
+            "size": 4558
+        },
+        {
+            "price": "48755.00",
+            "symbol": "BTCUSD",
+            "id": 487550000,
+            "side": "Sell",
+            "size": 26231
+        },
+        {
+            "price": "48755.50",
+            "symbol": "BTCUSD",
+            "id": 487555000,
+            "side": "Sell",
+            "size": 51908
+        },
+        {
+            "price": "48761.00",
+            "symbol": "BTCUSD",
+            "id": 487610000,
+            "side": "Sell",
+            "size": 54398
+        },
+        {
+            "price": "48761.50",
+            "symbol": "BTCUSD",
+            "id": 487615000,
+            "side": "Sell",
+            "size": 1226
+        },
+        {
+            "price": "48767.50",
+            "symbol": "BTCUSD",
+            "id": 487675000,
+            "side": "Sell",
+            "size": 50228
+        },
+        {
+            "price": "48768.00",
+            "symbol": "BTCUSD",
+            "id": 487680000,
+            "side": "Sell",
+            "size": 372
+        },
+        {
+            "price": "48769.00",
+            "symbol": "BTCUSD",
+            "id": 487690000,
+            "side": "Sell",
+            "size": 6537
+        },
+        {
+            "price": "48772.00",
+            "symbol": "BTCUSD",
+            "id": 487720000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48774.50",
+            "symbol": "BTCUSD",
+            "id": 487745000,
+            "side": "Sell",
+            "size": 50064
+        },
+        {
+            "price": "48775.50",
+            "symbol": "BTCUSD",
+            "id": 487755000,
+            "side": "Sell",
+            "size": 2616
+        },
+        {
+            "price": "48776.50",
+            "symbol": "BTCUSD",
+            "id": 487765000,
+            "side": "Sell",
+            "size": 56743
+        },
+        {
+            "price": "48782.00",
+            "symbol": "BTCUSD",
+            "id": 487820000,
+            "side": "Sell",
+            "size": 50227
+        },
+        {
+            "price": "48782.50",
+            "symbol": "BTCUSD",
+            "id": 487825000,
+            "side": "Sell",
+            "size": 486
+        },
+        {
+            "price": "48783.00",
+            "symbol": "BTCUSD",
+            "id": 487830000,
+            "side": "Sell",
+            "size": 4895
+        },
+        {
+            "price": "48791.50",
+            "symbol": "BTCUSD",
+            "id": 487915000,
+            "side": "Sell",
+            "size": 50511
+        },
+        {
+            "price": "48792.00",
+            "symbol": "BTCUSD",
+            "id": 487920000,
+            "side": "Sell",
+            "size": 1174
+        },
+        {
+            "price": "48793.50",
+            "symbol": "BTCUSD",
+            "id": 487935000,
+            "side": "Sell",
+            "size": 919
+        },
+        {
+            "price": "48796.00",
+            "symbol": "BTCUSD",
+            "id": 487960000,
+            "side": "Sell",
+            "size": 54684
+        },
+        {
+            "price": "48801.50",
+            "symbol": "BTCUSD",
+            "id": 488015000,
+            "side": "Sell",
+            "size": 54002
+        },
+        {
+            "price": "48806.00",
+            "symbol": "BTCUSD",
+            "id": 488060000,
+            "side": "Sell",
+            "size": 500
+        },
+        {
+            "price": "48807.00",
+            "symbol": "BTCUSD",
+            "id": 488070000,
+            "side": "Sell",
+            "size": 81717
+        },
+        {
+            "price": "48812.50",
+            "symbol": "BTCUSD",
+            "id": 488125000,
+            "side": "Sell",
+            "size": 50024
+        },
+        {
+            "price": "48813.00",
+            "symbol": "BTCUSD",
+            "id": 488130000,
+            "side": "Sell",
+            "size": 2
+        },
+        {
+            "price": "48816.00",
+            "symbol": "BTCUSD",
+            "id": 488160000,
+            "side": "Sell",
+            "size": 50150
+        },
+        {
+            "price": "48821.50",
+            "symbol": "BTCUSD",
+            "id": 488215000,
+            "side": "Sell",
+            "size": 50025
+        },
+        {
+            "price": "48822.00",
+            "symbol": "BTCUSD",
+            "id": 488220000,
+            "side": "Sell",
+            "size": 251
+        },
+        {
+            "price": "48826.00",
+            "symbol": "BTCUSD",
+            "id": 488260000,
+            "side": "Sell",
+            "size": 50780
+        },
+        {
+            "price": "48831.50",
+            "symbol": "BTCUSD",
+            "id": 488315000,
+            "side": "Sell",
+            "size": 55795
+        },
+        {
+            "price": "48837.00",
+            "symbol": "BTCUSD",
+            "id": 488370000,
+            "side": "Sell",
+            "size": 50021
+        },
+        {
+            "price": "48838.00",
+            "symbol": "BTCUSD",
+            "id": 488380000,
+            "side": "Sell",
+            "size": 278
+        },
+        {
+            "price": "48839.00",
+            "symbol": "BTCUSD",
+            "id": 488390000,
+            "side": "Sell",
+            "size": 13810
+        },
+        {
+            "price": "48840.00",
+            "symbol": "BTCUSD",
+            "id": 488400000,
+            "side": "Sell",
+            "size": 20472
+        },
+        {
+            "price": "48843.50",
+            "symbol": "BTCUSD",
+            "id": 488435000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48845.50",
+            "symbol": "BTCUSD",
+            "id": 488455000,
+            "side": "Sell",
+            "size": 50405
+        },
+        {
+            "price": "48846.00",
+            "symbol": "BTCUSD",
+            "id": 488460000,
+            "side": "Sell",
+            "size": 3348
+        },
+        {
+            "price": "48851.50",
+            "symbol": "BTCUSD",
+            "id": 488515000,
+            "side": "Sell",
+            "size": 77230
+        },
+        {
+            "price": "48857.00",
+            "symbol": "BTCUSD",
+            "id": 488570000,
+            "side": "Sell",
+            "size": 53211
+        },
+        {
+            "price": "48862.50",
+            "symbol": "BTCUSD",
+            "id": 488625000,
+            "side": "Sell",
+            "size": 51731
+        },
+        {
+            "price": "48863.00",
+            "symbol": "BTCUSD",
+            "id": 488630000,
+            "side": "Sell",
+            "size": 144
+        },
+        {
+            "price": "48868.00",
+            "symbol": "BTCUSD",
+            "id": 488680000,
+            "side": "Sell",
+            "size": 53647
+        },
+        {
+            "price": "48868.50",
+            "symbol": "BTCUSD",
+            "id": 488685000,
+            "side": "Sell",
+            "size": 10957
+        },
+        {
+            "price": "48874.00",
+            "symbol": "BTCUSD",
+            "id": 488740000,
+            "side": "Sell",
+            "size": 50631
+        },
+        {
+            "price": "48874.50",
+            "symbol": "BTCUSD",
+            "id": 488745000,
+            "side": "Sell",
+            "size": 9146
+        },
+        {
+            "price": "48877.00",
+            "symbol": "BTCUSD",
+            "id": 488770000,
+            "side": "Sell",
+            "size": 52173
+        },
+        {
+            "price": "48883.50",
+            "symbol": "BTCUSD",
+            "id": 488835000,
+            "side": "Sell",
+            "size": 54599
+        },
+        {
+            "price": "48884.50",
+            "symbol": "BTCUSD",
+            "id": 488845000,
+            "side": "Sell",
+            "size": 4399
+        },
+        {
+            "price": "48891.00",
+            "symbol": "BTCUSD",
+            "id": 488910000,
+            "side": "Sell",
+            "size": 51653
+        },
+        {
+            "price": "48897.00",
+            "symbol": "BTCUSD",
+            "id": 488970000,
+            "side": "Sell",
+            "size": 52869
+        },
+        {
+            "price": "48897.50",
+            "symbol": "BTCUSD",
+            "id": 488975000,
+            "side": "Sell",
+            "size": 1705
+        },
+        {
+            "price": "48899.00",
+            "symbol": "BTCUSD",
+            "id": 488990000,
+            "side": "Sell",
+            "size": 66555
+        },
+        {
+            "price": "48905.00",
+            "symbol": "BTCUSD",
+            "id": 489050000,
+            "side": "Sell",
+            "size": 52005
+        },
+        {
+            "price": "48906.00",
+            "symbol": "BTCUSD",
+            "id": 489060000,
+            "side": "Sell",
+            "size": 13924
+        },
+        {
+            "price": "48910.50",
+            "symbol": "BTCUSD",
+            "id": 489105000,
+            "side": "Sell",
+            "size": 53910
+        },
+        {
+            "price": "48914.00",
+            "symbol": "BTCUSD",
+            "id": 489140000,
+            "side": "Sell",
+            "size": 73599
+        },
+        {
+            "price": "48915.00",
+            "symbol": "BTCUSD",
+            "id": 489150000,
+            "side": "Sell",
+            "size": 1000000
+        },
+        {
+            "price": "48919.50",
+            "symbol": "BTCUSD",
+            "id": 489195000,
+            "side": "Sell",
+            "size": 56951
+        },
+        {
+            "price": "48920.00",
+            "symbol": "BTCUSD",
+            "id": 489200000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48920.50",
+            "symbol": "BTCUSD",
+            "id": 489205000,
+            "side": "Sell",
+            "size": 65
+        },
+        {
+            "price": "48921.00",
+            "symbol": "BTCUSD",
+            "id": 489210000,
+            "side": "Sell",
+            "size": 119348
+        },
+        {
+            "price": "48938.50",
+            "symbol": "BTCUSD",
+            "id": 489385000,
+            "side": "Sell",
+            "size": 107
+        },
+        {
+            "price": "48940.00",
+            "symbol": "BTCUSD",
+            "id": 489400000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "48979.00",
+            "symbol": "BTCUSD",
+            "id": 489790000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "48987.00",
+            "symbol": "BTCUSD",
+            "id": 489870000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "48990.50",
+            "symbol": "BTCUSD",
+            "id": 489905000,
+            "side": "Sell",
+            "size": 1443
+        },
+        {
+            "price": "48994.00",
+            "symbol": "BTCUSD",
+            "id": 489940000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49013.50",
+            "symbol": "BTCUSD",
+            "id": 490135000,
+            "side": "Sell",
+            "size": 300
+        },
+        {
+            "price": "49036.00",
+            "symbol": "BTCUSD",
+            "id": 490360000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49037.00",
+            "symbol": "BTCUSD",
+            "id": 490370000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49040.00",
+            "symbol": "BTCUSD",
+            "id": 490400000,
+            "side": "Sell",
+            "size": 1445
+        },
+        {
+            "price": "49056.00",
+            "symbol": "BTCUSD",
+            "id": 490560000,
+            "side": "Sell",
+            "size": 2011
+        },
+        {
+            "price": "49058.00",
+            "symbol": "BTCUSD",
+            "id": 490580000,
+            "side": "Sell",
+            "size": 777
+        },
+        {
+            "price": "49060.00",
+            "symbol": "BTCUSD",
+            "id": 490600000,
+            "side": "Sell",
+            "size": 656
+        },
+        {
+            "price": "49065.00",
+            "symbol": "BTCUSD",
+            "id": 490650000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49068.00",
+            "symbol": "BTCUSD",
+            "id": 490680000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49070.00",
+            "symbol": "BTCUSD",
+            "id": 490700000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49070.50",
+            "symbol": "BTCUSD",
+            "id": 490705000,
+            "side": "Sell",
+            "size": 1641
+        },
+        {
+            "price": "49073.50",
+            "symbol": "BTCUSD",
+            "id": 490735000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49075.00",
+            "symbol": "BTCUSD",
+            "id": 490750000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49080.00",
+            "symbol": "BTCUSD",
+            "id": 490800000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49081.00",
+            "symbol": "BTCUSD",
+            "id": 490810000,
+            "side": "Sell",
+            "size": 100000
+        },
+        {
+            "price": "49085.00",
+            "symbol": "BTCUSD",
+            "id": 490850000,
+            "side": "Sell",
+            "size": 10115
+        },
+        {
+            "price": "49088.00",
+            "symbol": "BTCUSD",
+            "id": 490880000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49090.00",
+            "symbol": "BTCUSD",
+            "id": 490900000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49090.50",
+            "symbol": "BTCUSD",
+            "id": 490905000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49091.00",
+            "symbol": "BTCUSD",
+            "id": 490910000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49096.00",
+            "symbol": "BTCUSD",
+            "id": 490960000,
+            "side": "Sell",
+            "size": 233
+        },
+        {
+            "price": "49105.00",
+            "symbol": "BTCUSD",
+            "id": 491050000,
+            "side": "Sell",
+            "size": 3777
+        },
+        {
+            "price": "49133.50",
+            "symbol": "BTCUSD",
+            "id": 491335000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49134.00",
+            "symbol": "BTCUSD",
+            "id": 491340000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49141.50",
+            "symbol": "BTCUSD",
+            "id": 491415000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49182.50",
+            "symbol": "BTCUSD",
+            "id": 491825000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49200.00",
+            "symbol": "BTCUSD",
+            "id": 492000000,
+            "side": "Sell",
+            "size": 3792
+        },
+        {
+            "price": "49207.50",
+            "symbol": "BTCUSD",
+            "id": 492075000,
+            "side": "Sell",
+            "size": 10000
+        },
+        {
+            "price": "49215.50",
+            "symbol": "BTCUSD",
+            "id": 492155000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49220.00",
+            "symbol": "BTCUSD",
+            "id": 492200000,
+            "side": "Sell",
+            "size": 6416
+        },
+        {
+            "price": "49230.00",
+            "symbol": "BTCUSD",
+            "id": 492300000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49231.50",
+            "symbol": "BTCUSD",
+            "id": 492315000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49239.50",
+            "symbol": "BTCUSD",
+            "id": 492395000,
+            "side": "Sell",
+            "size": 100000
+        },
+        {
+            "price": "49280.50",
+            "symbol": "BTCUSD",
+            "id": 492805000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49289.50",
+            "symbol": "BTCUSD",
+            "id": 492895000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49327.00",
+            "symbol": "BTCUSD",
+            "id": 493270000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49329.50",
+            "symbol": "BTCUSD",
+            "id": 493295000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49343.50",
+            "symbol": "BTCUSD",
+            "id": 493435000,
+            "side": "Sell",
+            "size": 84668
+        },
+        {
+            "price": "49363.50",
+            "symbol": "BTCUSD",
+            "id": 493635000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49378.50",
+            "symbol": "BTCUSD",
+            "id": 493785000,
+            "side": "Sell",
+            "size": 115
+        },
+        {
+            "price": "49423.50",
+            "symbol": "BTCUSD",
+            "id": 494235000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49427.00",
+            "symbol": "BTCUSD",
+            "id": 494270000,
+            "side": "Sell",
+            "size": 77
+        },
+        {
+            "price": "49437.50",
+            "symbol": "BTCUSD",
+            "id": 494375000,
+            "side": "Sell",
+            "size": 7
+        },
+        {
+            "price": "49451.00",
+            "symbol": "BTCUSD",
+            "id": 494510000,
+            "side": "Sell",
+            "size": 100
+        },
+        {
+            "price": "49473.00",
+            "symbol": "BTCUSD",
+            "id": 494730000,
+            "side": "Sell",
+            "size": 377
+        },
+        {
+            "price": "49476.00",
+            "symbol": "BTCUSD",
+            "id": 494760000,
+            "side": "Sell",
+            "size": 77
+        },
+        {
+            "price": "49480.00",
+            "symbol": "BTCUSD",
+            "id": 494800000,
+            "side": "Sell",
+            "size": 3496
+        }
+    ],
+    "cross_seq": 4775322342,
+    "timestamp_e6": 1640239835047151
+}{
+    "success": true,
+    "ret_msg": "",
+    "conn_id": "e50c35b6-f3f0-40df-9d63-97b8dd057bf4",
+    "request": {
+        "op": "subscribe",
+        "args": [
+            "orderBook_200.100ms.BTCUSD"
+        ]
+    }
+}{
+    "topic": "orderBook_200.100ms.BTCUSD",
+    "type": "delta",
+    "data": {
+        "delete": [
+            {
+                "price": "48395.50",
+                "symbol": "BTCUSD",
+                "id": 483955000,
+                "side": "Sell"
+            }
+        ],
+        "update": [
+            {
+                "price": "48359.50",
+                "symbol": "BTCUSD",
+                "id": 483595000,
+                "side": "Buy",
+                "size": 78368
+            },
+            {
+                "price": "48356.50",
+                "symbol": "BTCUSD",
+                "id": 483565000,
+                "side": "Buy",
+                "size": 8400
+            },
+            {
+                "price": "48385.50",
+                "symbol": "BTCUSD",
+                "id": 483855000,
+                "side": "Sell",
+                "size": 140860
+            },
+            {
+                "price": "48385.00",
+                "symbol": "BTCUSD",
+                "id": 483850000,
+                "side": "Sell",
+                "size": 153700
+            },
+            {
+                "price": "48357.50",
+                "symbol": "BTCUSD",
+                "id": 483575000,
+                "side": "Buy",
+                "size": 132060
+            },
+            {
+                "price": "48383.00",
+                "symbol": "BTCUSD",
+                "id": 483830000,
+                "side": "Sell",
+                "size": 99560
+            },
+            {
+                "price": "48358.00",
+                "symbol": "BTCUSD",
+                "id": 483580000,
+                "side": "Buy",
+                "size": 108510
+            }
+        ],
+        "insert": [
+            {
+                "price": "49511.50",
+                "symbol": "BTCUSD",
+                "id": 495115000,
+                "side": "Sell",
+                "size": 7
+            }
+        ],
+        "transactTimeE6": 0
+    },
+    "cross_seq": 4775322351,
+    "timestamp_e6": 1640239836047744
+}

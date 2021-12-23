@@ -12,8 +12,11 @@ except ImportError:
     import _thread as thread
 import time
 def on_message(ws, message):
-    msg = json.loads(message)
+    global msg
+    msg = json.loads(message)    
     print(msg)
+    with open('data.txt', 'a') as outfile:
+        json.dump(msg, outfile, indent = 4)
     # global df
     # # `ignore_index=True` has to be provided, otherwise you'll get
     # # "Can only append a Series if ignore_index=True or if the Series has a name" errors
@@ -24,13 +27,14 @@ def on_error(ws, error):
     print(error)
 
 
-def on_close(ws):
+def on_close(ws,*arg):
+
     print("### closed ###")
 
 
 def on_open(ws):
     def run(*args):
-        for i in range(3):
+        for i in range(1):
             time.sleep(1)
             ws.send('{"op": "subscribe", "args": ["orderBook_200.100ms.BTCUSD"]}')
         time.sleep(1)
